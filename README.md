@@ -5,7 +5,7 @@
 <p></p>
 Организаторы (админы бота) могут выгрузить все результата, добавить новое событие, установить дату начала и окончания приема заявок!
 <p></p>
-<h2>В проекте используется</h2>
+<h2>В проекте используется следующий стек:</h2>
 
 <div><p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="80" height="80"/>&nbsp;
